@@ -1,0 +1,4 @@
+total 8
+-rwxrwxr-x 1 ubuntu ubuntu 479 Nov 28 17:34 test1
+-rwxrwxrwx 1 ubuntu ubuntu 479 Nov 28 17:34 test2
+-rw-rw-r-- 1 ubuntu ubuntu   0 Nov 28 17:34 test3
